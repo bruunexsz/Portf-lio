@@ -1,0 +1,327 @@
+html, body {
+	width:100%;
+	height:100%;
+	margin:0;
+}
+.FundoLogin {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-login.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+.FundoTabelaConteudo {
+	background-color:#B1CD70;
+}
+.FundoConteudoInterno {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-conteudo-interno.gif);
+	background-repeat:repeat-x;
+	background-position:left top;
+	background-color:#F4F9E8;
+}
+.FundoMenuPrincipal {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-menu-principal.png);
+	background-repeat:repeat-x;
+	background-position:left bottom;
+	background-color:#F4F9E8;
+}
+.FundoConteudoPrincipal {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-conteudo-principal.png);
+	background-repeat:repeat-x;
+	background-position:left bottom;
+	background-color:#F4F9E8;
+}
+.FundoBotoesMenuPrincipal {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-botoes-menu-principal.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFF;
+	letter-spacing:-1px;
+	cursor:pointer;
+	text-shadow:#2D520C 1px 1px 0;
+	text-align:center;
+	vertical-align:middle;
+}
+.FundoBotoesMenuPrincipal:hover {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-botoes-menu-principal.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FF0;
+	letter-spacing:-1px;
+	cursor:pointer;
+	border:2px solid #AA1900;
+	text-shadow:#2D520C 1px 1px 0;
+	text-align:center;
+	vertical-align:middle;
+}
+.FundoBotoesMenuGrande {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-botoes-menu-grandes.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFF;
+	letter-spacing:-1px;
+	cursor:pointer;
+	text-shadow:#2D520C 1px 1px 0;
+	text-align:center;
+	vertical-align:middle;
+}
+.FundoBotoesMenuGrande:hover {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-botoes-menu-grandes.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FF0;
+	letter-spacing:-1px;
+	cursor:pointer;
+	border:2px solid #AA1900;
+	text-shadow:#2D520C 1px 1px 0;
+	text-align:center;
+	vertical-align:middle;
+}
+.FundoLinhas {
+	background-attachment:scroll;
+	background-image:url(../Img/Verde/fundo-linhas.gif);
+	background-repeat:repeat-x;
+	background-position:left center;
+}
+.FundoListaConteudo {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:35px;
+	background-color:#DCEABD;
+	color:#2D480B;
+}
+.FundoListaConteudoDuasLinhasHover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:35px;
+	background-color:#C8DC94;
+	color:#2D480B;
+}
+.FundoListaConteudo:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#C8DC94;
+	height:35px;
+	color:#2D480B;
+}
+.FundoExcluirImagens {
+	background-color:#D3E4AB;
+	text-align:center;
+	height:25px;
+}
+.BotoesBBCode {
+	background-color:#EAEAEA;
+	background-image:url(../Botoes.gif);
+	border:1px solid;
+	border-color:#D2D2D2 #999 #AAA #D2D2D2;
+	padding:0;
+}
+.BotoesBBCode:hover {
+	background-color:#EAEAEA;
+	border:1px solid;
+	border-color:#D2D2D2 #616161 #616161 #D2D2D2;
+}
+.BotoesBBCode:active {
+	background-color:silver;
+	border:1px solid;
+	border-color:ButtonShadow ButtonHighlight ButtonHighlight ButtonShadow;
+}
+.BarraDeComandos {
+	background-color:#DEE7DE;
+	border-style:solid;
+	border-width:0;
+	margin:0;
+}
+.BordaBBCode {
+	background-color:#FFF;
+	border:1px solid #333;
+}
+.ComboBBCode {
+	color:#333;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border:1px double #333;
+}
+.TextAreaBBCode {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-style:normal;
+	line-height:20px;
+	font-weight:400;
+	font-variant:normal;
+	text-transform:none;
+	color:#000;
+	text-decoration:none;
+	border-style:none;
+	margin:0;
+	padding:7px;
+}
+.TextoArial20A {
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	font-size:20px;
+	color:#528611;
+	letter-spacing:-1px;
+	word-spacing:-1px;
+}
+.TextoVerdana11A {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:18px;
+	color:#2D480B;
+}
+.TextoVerdana12A {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:18px;
+	color:#2D480B;
+}
+.TextoVerdana12B {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:18px;
+	color:#900;
+}
+.FormsSemBordas {
+	margin:0;
+}
+.TextFields {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2D480B;
+	background-color:#FFF;
+	border:1px solid #488A13;
+	padding:2px;
+}
+.TextoListBox {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	line-height:20px;
+	font-weight:400;
+	font-variant:normal;
+	text-transform:none;
+	color:#333;
+	text-decoration:none;
+}
+.BotaoPadrao {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFF;
+	background-color:#46700E;
+	text-align:center;
+	padding-bottom:3px;
+	padding-top:1px;
+	height:20px;
+	cursor:pointer;
+	border-style:none;
+	margin:0;
+}
+.BotaoPadrao:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFF;
+	background-color:#790000;
+	text-align:center;
+	padding-bottom:3px;
+	padding-top:1px;
+	height:20px;
+	cursor:pointer;
+	border-style:none;
+	margin:0;
+}
+a.LinkBlock {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	line-height:normal;
+	font-weight:400;
+	font-variant:normal;
+	text-transform:none;
+	color:#2D480B;
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	padding:8px;
+}
+a.LinkBlock:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	line-height:normal;
+	font-weight:400;
+	font-variant:normal;
+	text-transform:none;
+	color:#FFF;
+	display:block;
+	background-color:#5F7726;
+	text-decoration:none;
+	text-align:center;
+}
+.TextoImpressao {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	line-height:normal;
+	font-weight:400;
+	font-variant:normal;
+	text-transform:none;
+	color:#000;
+	text-decoration:none;
+}
+.TextoFKPImpressao {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:48px;
+	font-style:normal;
+	line-height:normal;
+	font-weight:400;
+	font-variant:normal;
+	text-transform:none;
+	color:#000;
+	text-decoration:none;
+}
+.TextoTitulosComum {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:19px;
+	font-style:normal;
+	line-height:normal;
+	font-weight:700;
+	font-variant:normal;
+	text-transform:none;
+	color:#000;
+	text-decoration:none;
+	word-spacing:-1px;
+	letter-spacing:-1px;
+}
+.TabelaVisualizarAtletas td {
+	border-bottom-color:#CCC;
+	border-style:solid;
+	border-width:0 0 1px;
+}
+a.TextoVerdana11A:link, a.TextoVerdana11A:visited, a.TextoVerdana11A:active {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:18px;
+	color:#2D480B;
+	text-decoration:none;
+}
+a.TextoVerdana11A:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:18px;
+	color:#2D480B;
+	text-decoration:underline;
+}
