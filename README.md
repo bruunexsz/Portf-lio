@@ -8,6 +8,8 @@ Este site foi desenvolvido em Laravel e serve como plataforma para gerenciamento
 
 - **Área de Filiados:** Permite que as associações filiadas controlem e enviem dados de atletas.
 - **Área Administrativa:** Ferramentas administrativas para gerenciar competições, associados e conteúdo do site.
+  - **Gerenciamento de Competições:** Funcionalidade para criar competições, adicionar faixas, categorias e usuários.
+  - **Cadastro de Atletas:** Permite que os filiados cadastrados insiram atletas em competições criadas.
 
 ## Tecnologias Utilizadas
 
